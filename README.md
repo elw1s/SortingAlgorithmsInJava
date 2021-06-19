@@ -1,6 +1,6 @@
-# Sorting Algorithms Written In Java
+# Sorting Algorithms In Java
 
-## Sorting Algorithms
+## Sorting Algorithms in this repository
 
 * Insertion Sort
 * Bubble Sort
