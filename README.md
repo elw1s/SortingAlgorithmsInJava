@@ -1,6 +1,6 @@
-###SortingAlgorithmsInJava
+### SortingAlgorithmsInJava
 
-##Sorting Algorithms
+## Sorting Algorithms
 
 * Insertion Sort
 * Bubble Sort
@@ -10,7 +10,7 @@
 * Quick Sort
 * Heap Sort
 
-#All the methods in classes are static. You can just call it as shown below
+# All the methods in classes are static. You can just call it as shown below
 
 ```
 Integer[] array = {28,15,48,32,190,1,-9};
