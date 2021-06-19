@@ -15,5 +15,4 @@
 ```
 Integer[] array = {28,15,48,32,190,1,-9};
 BubbleSort.sort(array);
-
 ```
