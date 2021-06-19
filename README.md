@@ -1,4 +1,4 @@
-# SortingAlgorithmsInJava
+# Sorting Algorithms Written In Java
 
 ## Sorting Algorithms
 
